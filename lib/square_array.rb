@@ -3,6 +3,7 @@ def square_array(array)
   new_array = []
   while numbers == numbers  do
   new_array << array[numbers]**array[numbers]
+  numbers += 1
 end 
 new_array
 end 
